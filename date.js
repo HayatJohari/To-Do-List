@@ -11,4 +11,4 @@ exports.getDate = function (){
 
 return today.toLocaleDateString("en-AU", options);
 
-}
+};
